@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CurrencyConverterAndroidApp</string>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>EURO</item>
+        <item>RUB</item>
+    </string-array>
 </resources>
